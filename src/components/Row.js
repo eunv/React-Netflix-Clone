@@ -58,7 +58,7 @@ export default function Row({ title, id, fetchUrl, isLargeRow }) {
         </div>
       </div>
       {modalOpen && (
-        <MovieModal {...movieSelected} />
+        <MovieModal {...movieSelected} setModalOpen={setModalOpen} />
       )}
     </section>
   )
