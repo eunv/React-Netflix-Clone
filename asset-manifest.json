@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://eunv.github.io/React-Neflix-Clone/static/css/main.0f43791a.css",
-    "main.js": "https://eunv.github.io/React-Neflix-Clone/static/js/main.689d3103.js",
-    "static/js/787.0b98d003.chunk.js": "https://eunv.github.io/React-Neflix-Clone/static/js/787.0b98d003.chunk.js",
-    "index.html": "https://eunv.github.io/React-Neflix-Clone/index.html",
-    "main.0f43791a.css.map": "https://eunv.github.io/React-Neflix-Clone/static/css/main.0f43791a.css.map",
-    "main.689d3103.js.map": "https://eunv.github.io/React-Neflix-Clone/static/js/main.689d3103.js.map",
-    "787.0b98d003.chunk.js.map": "https://eunv.github.io/React-Neflix-Clone/static/js/787.0b98d003.chunk.js.map"
+    "main.css": "/React-Netflix-Clone/static/css/main.0f43791a.css",
+    "main.js": "/React-Netflix-Clone/static/js/main.c1a0ec7d.js",
+    "static/js/787.0b98d003.chunk.js": "/React-Netflix-Clone/static/js/787.0b98d003.chunk.js",
+    "index.html": "/React-Netflix-Clone/index.html",
+    "main.0f43791a.css.map": "/React-Netflix-Clone/static/css/main.0f43791a.css.map",
+    "main.c1a0ec7d.js.map": "/React-Netflix-Clone/static/js/main.c1a0ec7d.js.map",
+    "787.0b98d003.chunk.js.map": "/React-Netflix-Clone/static/js/787.0b98d003.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0f43791a.css",
-    "static/js/main.689d3103.js"
+    "static/js/main.c1a0ec7d.js"
   ]
 }
